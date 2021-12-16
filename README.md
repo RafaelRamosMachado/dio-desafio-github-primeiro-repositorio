@@ -4,25 +4,8 @@ Repositório criado para o Desafio de Projeto.
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
-## Comandos Básicos:
 git init - Inicia o projeto com um controle de vers�o - nesse caso no git
 git clone - Clonar um repositorio ou um projeto remoto
-git add . ou git add <<nome_arquivo>> - adicionando arquivos(git add . adiciona todos arquivos) (git add nome_arquivo adiciona s� o arquivo indicado)
-git commit -m 'mensagem de commit' - salvar as altera��es informando uma mensagem do procedimento que foi feito
-git push - publicar as altera��es no servidor remoto - nesse caso no git
-git pull - atualizar o reposit�rio local com os arquivos do reposit�rio remoto
-git merge - Juntar as altera��es feitas nas branchs(1,2,3..) com a branch principal(master) / Resolu��o de conflitos(quem alterou determinado arquivo)
-git status - Estado atual do projeto, se tem arquivo add, se tem arquivo comitado..
-git log - Historico de altera��es que o reposit�rio vem sofrendo(quem comitou, a hora, o que foi feito...)
-git branch <<nome da branch>> - Cria um novo ramo
-
-Reposit�rio local - Criado na pr�pria m�quina e Reposit�rio remoto - Criado no servidor
-
-
-mkdir projeto_curso_git -> Cria uma pasta
-cd projeto_curso_git -> Acessa a pasta
-git init -> Inicia o git
-"Criar um arquivo index.html"
 git add . -> Chama todos arquivos criados para o git ou git add index.html vai chamar s� o arquivo index.html
 git status -> Mostra como est� o arquivo, mostra se foram alterados e ainda n�o foram enviados pro git...
 git commit -m "Meu primeiro commit" -> Salva as altera��es feitas no diret�rio local
