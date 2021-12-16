@@ -4,6 +4,7 @@ Repositório criado para o Desafio de Projeto.
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 
+## Comandos Básicos
 git init - Inicia o projeto com um controle de vers�o - nesse caso no git
 git clone - Clonar um repositorio ou um projeto remoto
 git add . -> Chama todos arquivos criados para o git ou git add index.html vai chamar s� o arquivo index.html
